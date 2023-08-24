@@ -9,8 +9,5 @@ My Text REpo
 # repoReadm
 # repoReadm
 
-# repoReadm
-# repoReadm
-
 
 # repoReadm
