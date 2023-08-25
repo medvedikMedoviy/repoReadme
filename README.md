@@ -5,7 +5,6 @@ My Text REpo
 # repoReadm
  repoReadme# repoReadme
 My Text REpo
-My Text REpo
 # repoReadm
 # repoReadm
 
