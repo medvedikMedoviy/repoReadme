@@ -1,5 +1,5 @@
 # repoReadm
-My Text R
+My Tex
  # repoRea
 My T# repoRe
 My Text R
