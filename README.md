@@ -11,8 +11,6 @@ count_number;= data.profiles[i].id;
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
-        const accountNumber = daa.profiles[i].account_numb
         const profilePassword = data.profiles[i].password;
 iles[i].id;import 'dart:async';
 import 'dart:convert';aders to the 
