@@ -6,10 +6,6 @@ import 'dart:convert';aders to the
         const profilePassword = da.profile[i].passwor
 count_number;= data.profiles[i].id;
   State<MyHomePage> createState() => _MyHomePageState();
-}
-
-        const profilePassword = da.profile[i].passwor
-count_number;= data.profiles[i].id;
         const accountNumber = daa.profiles[i].account_numb
   const MyHomePage({
   @overr
