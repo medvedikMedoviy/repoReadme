@@ -4,8 +4,6 @@ import 'dart:convert';aders to the
       HttpHeaders.authorizonHeade 
     required this
         const profilePassword = da.profile[i].passwor
-count_number;= data.profiles[i].id;
-  State<MyHomePage> createState() => _MyHomeccount_numb
   const MyHomePage({
 class _MyHomePageState extends State<MyHomePage> {
                     async function pageActions(url, [elementSelector1, elemeelector2, elementSelector3, 
