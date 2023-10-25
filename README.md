@@ -1,6 +1,5 @@
 import 'dart:async';
-    required this
-        const profilePassword = da.profile[i].passwor
+    required this.passwor
   const MyHomePage({
 class _MyHomePageState extends State<MyHomePage> {tSelector1, elemeelector2, elementSelector3, 
 StylishDemon        const profileId = data.iles[i        const profileId = data.ofiles[i].id;
