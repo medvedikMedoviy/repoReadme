@@ -4,7 +4,6 @@ class _MyHomePageSte<MyHomePa       const profileId = data.ofiles[i].id;
         const accountNumber = daa.profiles[i]
 
 iles[i].id;ount_n
-        const accountNumber = data.profiles[i].account_number;
         const profilePassword = da.profile[
         const accountNumber = daa.profiles[i].account_numb
 
