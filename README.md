@@ -1,3 +1,3 @@
 s const acco
 
-ccontNumber = daa.nst accountNumberprofi
+ccontNumber = daa.nst accountNu
