@@ -1,2 +1,2 @@
-s const acco
+s const 
 = daa.nst 
